@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "iphone-2g",
+    "name": "iPhone 2G",
+    "year": 2007,
+    "chip": "Samsung ARM 1176JZ(F)-S v1.0",
+    "chipSeries": "Legacy",
+    "display": {
+      "size": "3.5 inch",
+      "numeric": 3.5,
+      "resolution": "320 x 480",
+      "technology": "LED-backlit LCD"
+    },
+    "battery": {
+      "life": "8 hours talk time",
+      "capacity": "1400 mAh"
+    },
+    "camera": {
+      "main": "2 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "QVGA"
+    },
+    "weight": "135 g",
+    "dimensions": "115 x 61 x 11.6 mm",
+    "releasePrice": 499,
+    "colors": ["Black"],
+    "storageOptions": ["4 GB", "8 GB"],
+    "notes": "The original iPhone launched with multi-touch, Safari, and a revolutionary touch-first interface.",
+    "cameraTier": "single",
+    "family": "Legacy"
+  },
+  {
+    "id": "iphone-3g",
+    "name": "iPhone 3G",
+    "year": 2008,
+    "chip": "Samsung ARM 1176JZ(F)-S",
+    "chipSeries": "Legacy",
+    "display": {
+      "size": "3.5 inch",
+      "numeric": 3.5,
+      "resolution": "320 x 480",
+      "technology": "LED-backlit LCD"
+    },
+    "battery": {
+      "life": "10 hours talk time",
+      "capacity": "1150 mAh"
+    },
+    "camera": {
+      "main": "2 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "QVGA"
+    },
+    "weight": "133 g",
+    "dimensions": "115.5 x 62.1 x 12.3 mm",
+    "releasePrice": 199,
+    "colors": ["Black"],
+    "storageOptions": ["8 GB", "16 GB"],
+    "notes": "Added 3G data connectivity and App Store support.",
+    "cameraTier": "single",
+    "family": "Legacy"
+  },
+  {
+    "id": "iphone-3gs",
+    "name": "iPhone 3GS",
+    "year": 2009,
+    "chip": "Samsung ARM Cortex-A8",
+    "chipSeries": "Legacy",
+    "display": {
+      "size": "3.5 inch",
+      "numeric": 3.5,
+      "resolution": "320 x 480",
+      "technology": "LED-backlit LCD"
+    },
+    "battery": {
+      "life": "12 hours talk time",
+      "capacity": "1219 mAh"
+    },
+    "camera": {
+      "main": "3 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "VGA"
+    },
+    "weight": "135 g",
+    "dimensions": "115.5 x 62.1 x 12.3 mm",
+    "releasePrice": 199,
+    "colors": ["Black", "White"],
+    "storageOptions": ["8 GB", "16 GB", "32 GB"],
+    "notes": "Introduced voice control and better performance.",
+    "cameraTier": "single",
+    "family": "Legacy"
+  },
+  {
+    "id": "iphone-4",
+    "name": "iPhone 4",
+    "year": 2010,
+    "chip": "Apple A4",
+    "chipSeries": "A4",
+    "display": {
+      "size": "3.5 inch",
+      "numeric": 3.5,
+      "resolution": "640 x 960",
+      "technology": "Retina LCD"
+    },
+    "battery": {
+      "life": "7 hours talk time",
+      "capacity": "1420 mAh"
+    },
+    "camera": {
+      "main": "5 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "720p"
+    },
+    "weight": "137 g",
+    "dimensions": "115.2 x 58.6 x 9.3 mm",
+    "releasePrice": 199,
+    "colors": ["Black", "White"],
+    "storageOptions": ["8 GB", "16 GB", "32 GB"],
+    "notes": "Glass back and high-density Retina display.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-4s",
+    "name": "iPhone 4S",
+    "year": 2011,
+    "chip": "Apple A5",
+    "chipSeries": "A5",
+    "display": {
+      "size": "3.5 inch",
+      "numeric": 3.5,
+      "resolution": "640 x 960",
+      "technology": "Retina LCD"
+    },
+    "battery": {
+      "life": "8 hours talk time",
+      "capacity": "1432 mAh"
+    },
+    "camera": {
+      "main": "8 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "1080p"
+    },
+    "weight": "140 g",
+    "dimensions": "115.2 x 58.6 x 9.3 mm",
+    "releasePrice": 199,
+    "colors": ["Black", "White"],
+    "storageOptions": ["16 GB", "32 GB", "64 GB"],
+    "notes": "Introduced Siri and iCloud integration.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-5",
+    "name": "iPhone 5",
+    "year": 2012,
+    "chip": "Apple A6",
+    "chipSeries": "A6",
+    "display": {
+      "size": "4.0 inch",
+      "numeric": 4.0,
+      "resolution": "640 x 1136",
+      "technology": "Retina LCD"
+    },
+    "battery": {
+      "life": "8 hours talk time",
+      "capacity": "1440 mAh"
+    },
+    "camera": {
+      "main": "8 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "N/A",
+      "video": "1080p"
+    },
+    "weight": "112 g",
+    "dimensions": "123.8 x 58.6 x 7.6 mm",
+    "releasePrice": 199,
+    "colors": ["Black", "White"],
+    "storageOptions": ["16 GB", "32 GB", "64 GB"],
+    "notes": "The first iPhone to adopt the taller 4-inch display.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-5s",
+    "name": "iPhone 5s",
+    "year": 2013,
+    "chip": "Apple A7",
+    "chipSeries": "A7",
+    "display": {
+      "size": "4.0 inch",
+      "numeric": 4.0,
+      "resolution": "640 x 1136",
+      "technology": "Retina LCD"
+    },
+    "battery": {
+      "life": "10 hours talk time",
+      "capacity": "1560 mAh"
+    },
+    "camera": {
+      "main": "8 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "1.2 MP",
+      "video": "1080p"
+    },
+    "weight": "112 g",
+    "dimensions": "123.8 x 58.6 x 7.6 mm",
+    "releasePrice": 199,
+    "colors": ["Silver", "Gold", "Space Gray"],
+    "storageOptions": ["16 GB", "32 GB", "64 GB"],
+    "notes": "Touch ID and 64-bit CPU arrived here.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-6",
+    "name": "iPhone 6",
+    "year": 2014,
+    "chip": "Apple A8",
+    "chipSeries": "A8",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "14 hours talk time",
+      "capacity": "1810 mAh"
+    },
+    "camera": {
+      "main": "8 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "1.2 MP",
+      "video": "1080p"
+    },
+    "weight": "129 g",
+    "dimensions": "138.1 x 67 x 6.9 mm",
+    "releasePrice": 199,
+    "colors": ["Space Gray", "Silver", "Gold"],
+    "storageOptions": ["16 GB", "64 GB", "128 GB"],
+    "notes": "The first larger-screen mainline iPhone.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-6-plus",
+    "name": "iPhone 6 Plus",
+    "year": 2014,
+    "chip": "Apple A8",
+    "chipSeries": "A8",
+    "display": {
+      "size": "5.5 inch",
+      "numeric": 5.5,
+      "resolution": "1080 x 1920",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "24 hours talk time",
+      "capacity": "2915 mAh"
+    },
+    "camera": {
+      "main": "8 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "1.2 MP",
+      "video": "1080p"
+    },
+    "weight": "172 g",
+    "dimensions": "158.1 x 77.8 x 7.1 mm",
+    "releasePrice": 299,
+    "colors": ["Space Gray", "Silver", "Gold"],
+    "storageOptions": ["16 GB", "64 GB", "128 GB"],
+    "notes": "Larger form factor and long battery life.",
+    "cameraTier": "single",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-6s",
+    "name": "iPhone 6s",
+    "year": 2015,
+    "chip": "Apple A9",
+    "chipSeries": "A9",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "14 hours talk time",
+      "capacity": "1715 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "5 MP",
+      "video": "4K"
+    },
+    "weight": "143 g",
+    "dimensions": "138.3 x 67.1 x 7.1 mm",
+    "releasePrice": 199,
+    "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+    "storageOptions": ["16 GB", "64 GB", "128 GB"],
+    "notes": "3D Touch and 12 MP camera landed in the first major sensor leap.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-6s-plus",
+    "name": "iPhone 6s Plus",
+    "year": 2015,
+    "chip": "Apple A9",
+    "chipSeries": "A9",
+    "display": {
+      "size": "5.5 inch",
+      "numeric": 5.5,
+      "resolution": "1080 x 1920",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "24 hours talk time",
+      "capacity": "2750 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "5 MP",
+      "video": "4K"
+    },
+    "weight": "192 g",
+    "dimensions": "158.2 x 77.9 x 7.3 mm",
+    "releasePrice": 299,
+    "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+    "storageOptions": ["16 GB", "64 GB", "128 GB"],
+    "notes": "A screen size leap with hi-res optics.",
+    "cameraTier": "single",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-se-1st-gen",
+    "name": "iPhone SE (1st gen)",
+    "year": 2016,
+    "chip": "Apple A9",
+    "chipSeries": "A9",
+    "display": {
+      "size": "4.0 inch",
+      "numeric": 4.0,
+      "resolution": "640 x 1136",
+      "technology": "Retina LCD"
+    },
+    "battery": {
+      "life": "14 hours talk time",
+      "capacity": "1624 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "1.2 MP",
+      "video": "4K"
+    },
+    "weight": "113 g",
+    "dimensions": "123.8 x 58.6 x 7.6 mm",
+    "releasePrice": 399,
+    "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+    "storageOptions": ["16 GB", "32 GB", "64 GB", "128 GB"],
+    "notes": "Retro body with modern 12 MP camera.",
+    "cameraTier": "single",
+    "family": "SE"
+  },
+  {
+    "id": "iphone-7",
+    "name": "iPhone 7",
+    "year": 2016,
+    "chip": "Apple A10 Fusion",
+    "chipSeries": "A10",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "14 hours talk time",
+      "capacity": "1960 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "138 g",
+    "dimensions": "138.3 x 67.1 x 7.1 mm",
+    "releasePrice": 649,
+    "colors": ["Jet Black", "Black", "Silver", "Gold", "Rose Gold"],
+    "storageOptions": ["32 GB", "128 GB", "256 GB"],
+    "notes": "Water resistance and the A10 Fusion chip.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-7-plus",
+    "name": "iPhone 7 Plus",
+    "year": 2016,
+    "chip": "Apple A10 Fusion",
+    "chipSeries": "A10",
+    "display": {
+      "size": "5.5 inch",
+      "numeric": 5.5,
+      "resolution": "1080 x 1920",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "21 hours talk time",
+      "capacity": "2900 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "12 MP",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "188 g",
+    "dimensions": "158.2 x 77.9 x 7.3 mm",
+    "releasePrice": 769,
+    "colors": ["Jet Black", "Black", "Silver", "Gold", "Rose Gold"],
+    "storageOptions": ["32 GB", "128 GB", "256 GB"],
+    "notes": "Dual-camera system with optical zoom.",
+    "cameraTier": "dual",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-8",
+    "name": "iPhone 8",
+    "year": 2017,
+    "chip": "Apple A11 Bionic",
+    "chipSeries": "A11",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "14 hours talk time",
+      "capacity": "1821 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "148 g",
+    "dimensions": "138.4 x 67.3 x 7.3 mm",
+    "releasePrice": 699,
+    "colors": ["Silver", "Space Gray", "Gold"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Solarized metal edge with the A11 Bionic.",
+    "cameraTier": "single",
+    "family": "Classic"
+  },
+  {
+    "id": "iphone-8-plus",
+    "name": "iPhone 8 Plus",
+    "year": 2017,
+    "chip": "Apple A11 Bionic",
+    "chipSeries": "A11",
+    "display": {
+      "size": "5.5 inch",
+      "numeric": 5.5,
+      "resolution": "1080 x 1920",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "21 hours talk time",
+      "capacity": "2691 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "12 MP",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "202 g",
+    "dimensions": "158.4 x 78.1 x 7.5 mm",
+    "releasePrice": 799,
+    "colors": ["Silver", "Space Gray", "Gold"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Dual-camera refinement before the iPhone X.",
+    "cameraTier": "dual",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-x",
+    "name": "iPhone X",
+    "year": 2017,
+    "chip": "Apple A11 Bionic",
+    "chipSeries": "A11",
+    "display": {
+      "size": "5.8 inch",
+      "numeric": 5.8,
+      "resolution": "1125 x 2436",
+      "technology": "Super Retina OLED"
+    },
+    "battery": {
+      "life": "21 hours talk time",
+      "capacity": "2716 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "12 MP",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "174 g",
+    "dimensions": "143.6 x 70.9 x 7.7 mm",
+    "releasePrice": 999,
+    "colors": ["Space Gray", "Silver"],
+    "storageOptions": ["64 GB", "256 GB"],
+    "notes": "Face ID and edge-to-edge OLED changed the form factor.",
+    "cameraTier": "dual",
+    "family": "X"
+  },
+  {
+    "id": "iphone-xs",
+    "name": "iPhone XS",
+    "year": 2018,
+    "chip": "Apple A12 Bionic",
+    "chipSeries": "A12",
+    "display": {
+      "size": "5.8 inch",
+      "numeric": 5.8,
+      "resolution": "1125 x 2436",
+      "technology": "Super Retina OLED"
+    },
+    "battery": {
+      "life": "25 hours talk time",
+      "capacity": "2658 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "12 MP",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "177 g",
+    "dimensions": "143.6 x 70.9 x 7.7 mm",
+    "releasePrice": 999,
+    "colors": ["Gold", "Silver", "Space Gray"],
+    "storageOptions": ["64 GB", "256 GB", "512 GB"],
+    "notes": "Advanced performance and improved thermal management.",
+    "cameraTier": "dual",
+    "family": "X"
+  },
+  {
+    "id": "iphone-xs-max",
+    "name": "iPhone XS Max",
+    "year": 2018,
+    "chip": "Apple A12 Bionic",
+    "chipSeries": "A12",
+    "display": {
+      "size": "6.5 inch",
+      "numeric": 6.5,
+      "resolution": "1242 x 2688",
+      "technology": "Super Retina OLED"
+    },
+    "battery": {
+      "life": "25 hours talk time",
+      "capacity": "3174 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "12 MP",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "208 g",
+    "dimensions": "157.5 x 77.4 x 7.7 mm",
+    "releasePrice": 1099,
+    "colors": ["Gold", "Silver", "Space Gray"],
+    "storageOptions": ["64 GB", "256 GB", "512 GB"],
+    "notes": "Large-format flagship with long battery life.",
+    "cameraTier": "dual",
+    "family": "Max"
+  },
+  {
+    "id": "iphone-xr",
+    "name": "iPhone XR",
+    "year": 2018,
+    "chip": "Apple A12 Bionic",
+    "chipSeries": "A12",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "828 x 1792",
+      "technology": "Liquid Retina LCD"
+    },
+    "battery": {
+      "life": "16 hours video playback",
+      "capacity": "2942 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "194 g",
+    "dimensions": "150.9 x 75.7 x 8.3 mm",
+    "releasePrice": 749,
+    "colors": ["Black", "White", "Blue", "Yellow", "Coral", "Red"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Colorful LCD flagship with upgraded A12.",
+    "cameraTier": "single",
+    "family": "XR"
+  },
+  {
+    "id": "iphone-11",
+    "name": "iPhone 11",
+    "year": 2019,
+    "chip": "Apple A13 Bionic",
+    "chipSeries": "A13",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "828 x 1792",
+      "technology": "Liquid Retina LCD"
+    },
+    "battery": {
+      "life": "17 hours video playback",
+      "capacity": "3110 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "194 g",
+    "dimensions": "150.9 x 75.7 x 8.3 mm",
+    "releasePrice": 699,
+    "colors": ["Black", "Green", "Purple", "Red", "White", "Yellow"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Ultra-wide camera and improved Night mode.",
+    "cameraTier": "dual",
+    "family": "11"
+  },
+  {
+    "id": "iphone-11-pro",
+    "name": "iPhone 11 Pro",
+    "year": 2019,
+    "chip": "Apple A13 Bionic",
+    "chipSeries": "A13",
+    "display": {
+      "size": "5.8 inch",
+      "numeric": 5.8,
+      "resolution": "1125 x 2436",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "18 hours video playback",
+      "capacity": "3046 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "188 g",
+    "dimensions": "144 x 71.4 x 8.1 mm",
+    "releasePrice": 999,
+    "colors": ["Midnight Green", "Silver", "Space Gray", "Gold"],
+    "storageOptions": ["64 GB", "256 GB", "512 GB"],
+    "notes": "The Pro line introduced a three-lens array and Pro display.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-11-pro-max",
+    "name": "iPhone 11 Pro Max",
+    "year": 2019,
+    "chip": "Apple A13 Bionic",
+    "chipSeries": "A13",
+    "display": {
+      "size": "6.5 inch",
+      "numeric": 6.5,
+      "resolution": "1242 x 2688",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "20 hours video playback",
+      "capacity": "3969 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "226 g",
+    "dimensions": "158 x 77.8 x 8.1 mm",
+    "releasePrice": 1099,
+    "colors": ["Midnight Green", "Silver", "Space Gray", "Gold"],
+    "storageOptions": ["64 GB", "256 GB", "512 GB"],
+    "notes": "True flagship with 6.5-inch OLED and long battery.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-se-2nd-gen",
+    "name": "iPhone SE (2nd gen)",
+    "year": 2020,
+    "chip": "Apple A13 Bionic",
+    "chipSeries": "A13",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "13 hours video playback",
+      "capacity": "1821 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "148 g",
+    "dimensions": "138.4 x 67.3 x 7.3 mm",
+    "releasePrice": 399,
+    "colors": ["Black", "White", "Red"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Modern internals in a compact body.",
+    "cameraTier": "single",
+    "family": "SE"
+  },
+  {
+    "id": "iphone-12-mini",
+    "name": "iPhone 12 mini",
+    "year": 2020,
+    "chip": "Apple A14 Bionic",
+    "chipSeries": "A14",
+    "display": {
+      "size": "5.4 inch",
+      "numeric": 5.4,
+      "resolution": "1080 x 2340",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "15 hours video playback",
+      "capacity": "2227 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "135 g",
+    "dimensions": "131.5 x 64.2 x 7.4 mm",
+    "releasePrice": 699,
+    "colors": ["Black", "Blue", "Green", "Red", "White"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Compact OLED flagship with 5G.",
+    "cameraTier": "dual",
+    "family": "Mini"
+  },
+  {
+    "id": "iphone-12",
+    "name": "iPhone 12",
+    "year": 2020,
+    "chip": "Apple A14 Bionic",
+    "chipSeries": "A14",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "17 hours video playback",
+      "capacity": "2815 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "164 g",
+    "dimensions": "146.7 x 71.5 x 7.4 mm",
+    "releasePrice": 799,
+    "colors": ["Black", "Blue", "Green", "Red", "White"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "The first iPhone with MagSafe.",
+    "cameraTier": "dual",
+    "family": "12"
+  },
+  {
+    "id": "iphone-12-pro",
+    "name": "iPhone 12 Pro",
+    "year": 2020,
+    "chip": "Apple A14 Bionic",
+    "chipSeries": "A14",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "17 hours video playback",
+      "capacity": "2815 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "187 g",
+    "dimensions": "146.7 x 71.5 x 7.4 mm",
+    "releasePrice": 999,
+    "colors": ["Graphite", "Silver", "Gold", "Pacific Blue"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "LiDAR and 5G pushed the Pro tier forward.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-12-pro-max",
+    "name": "iPhone 12 Pro Max",
+    "year": 2020,
+    "chip": "Apple A14 Bionic",
+    "chipSeries": "A14",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1284 x 2778",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "20 hours video playback",
+      "capacity": "3687 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "228 g",
+    "dimensions": "160.8 x 78.1 x 7.4 mm",
+    "releasePrice": 1099,
+    "colors": ["Graphite", "Silver", "Gold", "Pacific Blue"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "The largest OLED iPhone to date.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-13-mini",
+    "name": "iPhone 13 mini",
+    "year": 2021,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "5.4 inch",
+      "numeric": 5.4,
+      "resolution": "1080 x 2340",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "17 hours video playback",
+      "capacity": "2406 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "141 g",
+    "dimensions": "131.5 x 64.2 x 7.65 mm",
+    "releasePrice": 699,
+    "colors": ["Pink", "Blue", "Midnight", "Starlight", "Red"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "Compact flagships with better battery efficiency.",
+    "cameraTier": "dual",
+    "family": "Mini"
+  },
+  {
+    "id": "iphone-13",
+    "name": "iPhone 13",
+    "year": 2021,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "19 hours video playback",
+      "capacity": "3227 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "173 g",
+    "dimensions": "146.7 x 71.5 x 7.65 mm",
+    "releasePrice": 799,
+    "colors": ["Pink", "Blue", "Midnight", "Starlight", "Red"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "Better battery, faster CPU, and brighter display.",
+    "cameraTier": "dual",
+    "family": "13"
+  },
+  {
+    "id": "iphone-13-pro",
+    "name": "iPhone 13 Pro",
+    "year": 2021,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "22 hours video playback",
+      "capacity": "3095 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "204 g",
+    "dimensions": "146.7 x 71.5 x 7.65 mm",
+    "releasePrice": 999,
+    "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "ProMotion 120Hz and improved low-light optics.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max",
+    "year": 2021,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1284 x 2778",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "28 hours video playback",
+      "capacity": "4352 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "240 g",
+    "dimensions": "160.8 x 78.1 x 7.65 mm",
+    "releasePrice": 1099,
+    "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "The biggest battery in the line at the time.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "year": 2022,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "20 hours video playback",
+      "capacity": "3279 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "172 g",
+    "dimensions": "146.7 x 71.5 x 7.8 mm",
+    "releasePrice": 799,
+    "colors": ["Midnight", "Blue", "Purple", "Starlight", "Red"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "Emergency SOS and improved brightness.",
+    "cameraTier": "dual",
+    "family": "14"
+  },
+  {
+    "id": "iphone-14-plus",
+    "name": "iPhone 14 Plus",
+    "year": 2022,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1284 x 2778",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "26 hours video playback",
+      "capacity": "4323 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "203 g",
+    "dimensions": "160.8 x 78.1 x 7.8 mm",
+    "releasePrice": 899,
+    "colors": ["Midnight", "Blue", "Purple", "Starlight", "Red"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "The larger non-Pro battery champion.",
+    "cameraTier": "dual",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-14-pro",
+    "name": "iPhone 14 Pro",
+    "year": 2022,
+    "chip": "Apple A16 Bionic",
+    "chipSeries": "A16",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1179 x 2556",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "23 hours video playback",
+      "capacity": "3200 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "206 g",
+    "dimensions": "147.5 x 71.5 x 7.9 mm",
+    "releasePrice": 999,
+    "colors": ["Space Black", "Silver", "Gold", "Deep Purple"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "Dynamic Island and a 48 MP main camera arrived.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-14-pro-max",
+    "name": "iPhone 14 Pro Max",
+    "year": 2022,
+    "chip": "Apple A16 Bionic",
+    "chipSeries": "A16",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1290 x 2796",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "29 hours video playback",
+      "capacity": "4323 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "240 g",
+    "dimensions": "160.7 x 77.6 x 7.9 mm",
+    "releasePrice": 1099,
+    "colors": ["Space Black", "Silver", "Gold", "Deep Purple"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "The largest, brightest Pro chassis of the era.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-se-3rd-gen",
+    "name": "iPhone SE (3rd gen)",
+    "year": 2022,
+    "chip": "Apple A15 Bionic",
+    "chipSeries": "A15",
+    "display": {
+      "size": "4.7 inch",
+      "numeric": 4.7,
+      "resolution": "750 x 1334",
+      "technology": "Retina HD LCD"
+    },
+    "battery": {
+      "life": "15 hours video playback",
+      "capacity": "2016 mAh"
+    },
+    "camera": {
+      "main": "12 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "7 MP",
+      "video": "4K"
+    },
+    "weight": "144 g",
+    "dimensions": "138.4 x 67.3 x 7.3 mm",
+    "releasePrice": 429,
+    "colors": ["Midnight", "Starlight", "Red"],
+    "storageOptions": ["64 GB", "128 GB", "256 GB"],
+    "notes": "Small design with A15 performance.",
+    "cameraTier": "single",
+    "family": "SE"
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "year": 2023,
+    "chip": "Apple A16 Bionic",
+    "chipSeries": "A16",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1179 x 2556",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "20 hours video playback",
+      "capacity": "3349 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "171 g",
+    "dimensions": "147.6 x 71.6 x 7.8 mm",
+    "releasePrice": 799,
+    "colors": ["Pink", "Yellow", "Green", "Blue", "Black"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "USB-C arrives, plus a brighter, richer display.",
+    "cameraTier": "dual",
+    "family": "15"
+  },
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus",
+    "year": 2023,
+    "chip": "Apple A16 Bionic",
+    "chipSeries": "A16",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1290 x 2796",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "26 hours video playback",
+      "capacity": "4383 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "201 g",
+    "dimensions": "160.9 x 77.8 x 7.8 mm",
+    "releasePrice": 899,
+    "colors": ["Pink", "Yellow", "Green", "Blue", "Black"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "The larger non-Pro camera and battery option.",
+    "cameraTier": "dual",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "year": 2023,
+    "chip": "Apple A17 Pro",
+    "chipSeries": "A17",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1179 x 2556",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "23 hours video playback",
+      "capacity": "3274 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "187 g",
+    "dimensions": "146.6 x 70.6 x 8.25 mm",
+    "releasePrice": 999,
+    "colors": ["Black Titanium", "White Titanium", "Blue Titanium", "Natural Titanium"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "Titanium chassis and the A17 Pro chip.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "year": 2023,
+    "chip": "Apple A17 Pro",
+    "chipSeries": "A17",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1290 x 2796",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "29 hours video playback",
+      "capacity": "4422 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "221 g",
+    "dimensions": "159.9 x 76.7 x 8.25 mm",
+    "releasePrice": 1199,
+    "colors": ["Black Titanium", "White Titanium", "Blue Titanium", "Natural Titanium"],
+    "storageOptions": ["256 GB", "512 GB", "1 TB"],
+    "notes": "The first truly massive Pro Max battery and USB-C.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "year": 2024,
+    "chip": "Apple A18",
+    "chipSeries": "A18",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1179 x 2556",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "22 hours video playback",
+      "capacity": "3561 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "170 g",
+    "dimensions": "147.6 x 71.6 x 7.8 mm",
+    "releasePrice": 799,
+    "colors": ["Black", "White", "Teal", "Pink"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "New camera controls and Apple Intelligence-ready silicon.",
+    "cameraTier": "dual",
+    "family": "16"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "year": 2024,
+    "chip": "Apple A18",
+    "chipSeries": "A18",
+    "display": {
+      "size": "6.7 inch",
+      "numeric": 6.7,
+      "resolution": "1290 x 2796",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "27 hours video playback",
+      "capacity": "4674 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "199 g",
+    "dimensions": "160.9 x 77.8 x 7.8 mm",
+    "releasePrice": 899,
+    "colors": ["Black", "White", "Teal", "Pink"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "Large-screen mainline with refined thermal behavior.",
+    "cameraTier": "dual",
+    "family": "Plus"
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "year": 2024,
+    "chip": "Apple A18 Pro",
+    "chipSeries": "A18",
+    "display": {
+      "size": "6.3 inch",
+      "numeric": 6.3,
+      "resolution": "1206 x 2622",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "27 hours video playback",
+      "capacity": "3582 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "48 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "199 g",
+    "dimensions": "149.6 x 71.2 x 8.25 mm",
+    "releasePrice": 999,
+    "colors": ["Desert Titanium", "Natural Titanium", "White Titanium", "Black Titanium"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "Next-gen Pro camera array with improved all-around performance.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "year": 2024,
+    "chip": "Apple A18 Pro",
+    "chipSeries": "A18",
+    "display": {
+      "size": "6.9 inch",
+      "numeric": 6.9,
+      "resolution": "1320 x 2868",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "33 hours video playback",
+      "capacity": "4685 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "48 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "227 g",
+    "dimensions": "163 x 77.6 x 8.25 mm",
+    "releasePrice": 1199,
+    "colors": ["Desert Titanium", "Natural Titanium", "White Titanium", "Black Titanium"],
+    "storageOptions": ["256 GB", "512 GB", "1 TB"],
+    "notes": "The benchmark Pro Max with massive battery and advanced optics.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e",
+    "year": 2025,
+    "chip": "Apple A18",
+    "chipSeries": "A18",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "22 hours video playback",
+      "capacity": "3561 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "N/A",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "167 g",
+    "dimensions": "146.7 x 71.5 x 7.8 mm",
+    "releasePrice": 599,
+    "colors": ["Black", "White"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "A streamlined modern iPhone in the e-series lane.",
+    "cameraTier": "single",
+    "family": "e"
+  },
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "year": 2026,
+    "chip": "Apple A19",
+    "chipSeries": "A19",
+    "display": {
+      "size": "6.1 inch",
+      "numeric": 6.1,
+      "resolution": "1170 x 2532",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "22 hours video playback",
+      "capacity": "3700 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "12 MP",
+      "telephoto": "N/A",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "172 g",
+    "dimensions": "147.6 x 71.6 x 7.8 mm",
+    "releasePrice": 899,
+    "colors": ["Black", "White", "Blue", "Pink"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB"],
+    "notes": "A refreshed 2026 mainstream iPhone with next-generation performance and camera tuning.",
+    "cameraTier": "dual",
+    "family": "17"
+  },
+  {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "year": 2026,
+    "chip": "Apple A19 Pro",
+    "chipSeries": "A19",
+    "display": {
+      "size": "6.3 inch",
+      "numeric": 6.3,
+      "resolution": "1206 x 2622",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "24 hours video playback",
+      "capacity": "4100 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "48 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "206 g",
+    "dimensions": "149.6 x 71.2 x 8.25 mm",
+    "releasePrice": 1099,
+    "colors": ["Natural Titanium", "White Titanium", "Black Titanium", "Desert Titanium"],
+    "storageOptions": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "notes": "A 2026 Pro refresh with more advanced imaging and a stronger battery profile.",
+    "cameraTier": "triple",
+    "family": "Pro"
+  },
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "year": 2026,
+    "chip": "Apple A19 Pro",
+    "chipSeries": "A19",
+    "display": {
+      "size": "6.9 inch",
+      "numeric": 6.9,
+      "resolution": "1320 x 2868",
+      "technology": "Super Retina XDR OLED"
+    },
+    "battery": {
+      "life": "29 hours video playback",
+      "capacity": "4820 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "ultraWide": "48 MP",
+      "telephoto": "12 MP",
+      "selfie": "12 MP",
+      "video": "4K"
+    },
+    "weight": "236 g",
+    "dimensions": "163.0 x 77.6 x 8.35 mm",
+    "releasePrice": 1299,
+    "colors": ["Natural Titanium", "White Titanium", "Black Titanium", "Desert Titanium"],
+    "storageOptions": ["256 GB", "512 GB", "1 TB"],
+    "notes": "The largest 2026 flagship with extended battery endurance and flagship-level optics.",
+    "cameraTier": "triple",
+    "family": "Pro Max"
+  }
+]
